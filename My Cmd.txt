@@ -1,0 +1,32 @@
+My Commands :-
+
+1. Git
+
+    1.git init
+    2.git add .
+    3.git commit -m "_"
+    4.git push
+    5.git status
+    6.git remote add origin "_"
+    7.git push -u origin master
+    8.git pull --rebase origin master
+    9.git log 
+    10.git global user.name 
+    11.git global user.email
+
+2.Linux
+
+    Sing : $ = Regular User
+    1.ls
+    2.mkdir
+    3.cd 
+    4.cd ..
+    5.pwd
+    6.sudo apt-get update
+    7.sudo apt-get upgrade
+    8.ls -R 
+    9.touch .shashi : hidden file
+    10.ls -a : to see hidden files
+    11.
+    
+
