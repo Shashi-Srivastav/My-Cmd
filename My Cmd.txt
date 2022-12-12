@@ -2,17 +2,21 @@ My Commands :-
 
 1. Git
 
-    1.git init
-    2.git add .
-    3.git commit -m "_"
-    4.git push
-    5.git status
-    6.git remote add origin "_"
-    7.git push -u origin master
-    8.git pull --rebase origin master
-    9.git log 
-    10.git global user.name 
-    11.git global user.email
+    git config --global user.name "_" : to set your name
+    git config user.name : to see your name
+    git config --global user.email "_"
+    git config user.email 
+    git init
+    git add .
+    git commit -m "_"
+    git push
+    git status
+    git remote add origin "_"
+    git push -u origin master
+    git pull --rebase origin master
+    git log 
+     
+    l
 
 2.Linux
 
@@ -28,7 +32,7 @@ My Commands :-
     9.la -l
     10.ls -a : to see hidden files
     11.clear
-    12.history
+    12.
     13.echo shashi : print "_"
     14.printf "my name is shashi\n"
     15.touch shashi.txt
