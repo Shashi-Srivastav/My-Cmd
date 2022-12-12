@@ -5,7 +5,7 @@ My Commands :-
     git config --global user.name "_" : to set your name
     git config user.name : to see your name
     git config --global user.email "_"
-    git config user.email 
+    git config user.email "_"
     git init
     git add .
     git commit -m "_"
