@@ -21,23 +21,22 @@ My Commands :-
 2.Linux
 
     Sing : $ = Regular User
-    1.ls
-    2.mkdir
-    3.cd 
-    4.cd ..
-    5.pwd
-    6.sudo apt-get update
-    7.sudo apt-get upgrade
-    8.ls -R 
-    9.la -l
-    10.ls -a : to see hidden files
-    11.clear
-    12.
-    13.echo shashi : print "_"
-    14.printf "my name is shashi\n"
-    15.touch shashi.txt
-    16.touch .shashi : hidden file
-    17.touch SHASHI.txt
-    18.ps : shows the processes
-    19.ps -a : shows all bg processes
-    20.top : shows running processes
+    ls
+    mkdir
+    cd 
+    cd ..
+    pwd
+    sudo apt-get update
+    sudo apt-get upgrade
+    ls -R 
+    la -l
+    ls -a : to see hidden files
+    clear
+    echo shashi : print "_"
+    printf "my name is shashi\n"
+    touch shashi.txt
+    touch .shashi : hidden file
+    touch SHASHI.txt
+    ps : shows the processes
+    ps -a : shows all bg processes
+    top : shows running processes
