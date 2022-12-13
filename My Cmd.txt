@@ -15,8 +15,12 @@ My Commands :-
     git push -u origin master
     git pull --rebase origin master
     git log 
+    git log --oneline 
+    git commit --amend : use to commit left over commits
+
+
      
-    l
+    
 
 2.Linux
 
