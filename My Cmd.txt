@@ -18,6 +18,8 @@ My Commands :-
     git log --oneline 
     git commit --amend : use to commit left over commits
     touch .gitignore : ignore the changes maked in the added files in init
+    git remote set-url origin "_" : update the push req repo
+
     
 
 
