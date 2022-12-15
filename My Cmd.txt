@@ -22,7 +22,9 @@ My Commands :-
     git branch
     git branch "_"
     git switch "_" OR git chekout "_" : switches to branches    
+
     
+
     
     git commit --amend : use to commit left over commits
     touch .gitignore : ignore the changes maked in the added files in init
