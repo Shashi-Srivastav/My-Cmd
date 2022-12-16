@@ -1,9 +1,9 @@
 My Commands :-
 
-1. Git
+1. Git =============================================================================================
 
-    git config --global user.name "_" : to set your name
-    git config user.name : to see your name
+    git config --global user.name "_" // to set your name
+    git config user.name // to see your name
     git config --global user.email "_"
     git config user.email "_"
     git init
@@ -16,22 +16,30 @@ My Commands :-
     git pull --rebase origin master
     git log 
     git log --oneline
+    git commit --amend // use to commit left over commits
+    touch .gitignore // ignore the changes maked in the added files in init
+    git remote set-url origin "_" // update the push req repo
 
-    Branches :-
+
+   -Branches :-
 
     git branch
     git branch "_"
-    git switch "_" OR git chekout "_" : switches to branches    
-
+    git switch "_" 
+        OR 
+    git chekout "_" // switches to branches 
+    git switch -c "_" // create new branch and switch in it 
+    git branch -d "_" 
+        OR 
+    git branch --delete "_" : to del.
+    git branch -D "_" // to del. prem. away from branch
+    git branch -m "_" // move/rename on branch
     
 
-    
-    git commit --amend : use to commit left over commits
-    touch .gitignore : ignore the changes maked in the added files in init
-    git remote set-url origin "_" : update the push req repo
 
 
-2.Linux
+
+2.Linux ===============================================================================================
 
     Sing : $ = Regular User
     ls
@@ -43,13 +51,13 @@ My Commands :-
     sudo apt-get upgrade
     ls -R 
     la -l
-    ls -a : to see hidden files
+    ls -a // to see hidden files
     clear
-    echo shashi : print "_"
+    echo shashi // print "_"
     printf "my name is shashi\n"
     touch shashi.txt
-    touch .shashi : hidden file
+    touch .shashi // hidden file
     touch SHASHI.txt
-    ps : shows the processes
-    ps -a : shows all bg processes
-    top : shows running processes
+    ps // shows the processes
+    ps -a // shows all bg processes
+    top // shows running processes
