@@ -34,6 +34,9 @@ My Commands :-
     git branch --delete "_" : to del.
     git branch -D "_" // to del. prem. away from branch
     git branch -m "_" // move/rename on branch
+    git branch -v // get past commit and tip of branch
+    git merge "_" // to merge two Branches
+
     
 
 
